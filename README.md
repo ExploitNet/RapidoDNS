@@ -44,8 +44,12 @@
 - **Grok**: سرویس هوش مصنوعی (grok.com)
 - **Sony**: شرکت سونی (sony.com)
 - **Xbox**: کنسول و خدمات ایکس‌باکس (xbox.com، xboxlive.com، xboxservices.com)
+
 - **PlayStation**: کنسول و خدمات پلی‌استیشن (playstation.com، playstation.net، sonyentertainmentnetwork.com)
+
   - شامل زیردامنه‌های مرتبط مانند a0.ww.np.dl.playstation.net، activity.api.np.km.playstation.net، auth.api.np.ac.playstation.net، auth.api.sonyentertainmentnetwork.com، auth.np.ac.playstation.net، gs2.sonyusercontent.com، gs2.ww.prod.dl.playstation.net، gs2.ww.prod.np.dl.playstation.net، login.np.ac.playstation.net، np.ac.playstation.net، np.playstation.net، psn.api.playstation.com، store.playstation.com
+
+
 - **Microsoft**: خدمات مایکروسافت (microsoft.com، live.com، msn.com، windows.com، azure.com، msftncsi.com، onedrive.com، msauth.net، live.net، windows.net، msedge.net)
   - شامل زیردامنه‌های مرتبط مانند cdn-ps.fds-rls.microsoft.com
 - **Minecraft**: بازی ماینکرفت (minecraft.net، mojang.com، minecraftservices.com)
