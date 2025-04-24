@@ -2,7 +2,6 @@
 
 
 ## سرویس‌ های تحت پوشش RapidoDNS
-<div style="text-align: right; direction: rtl;">
 - **Google**: خدمات عمومی گوگل (google.com و زیردامنه‌ها)
 - **Google APIs**: API‌های گوگل (googleapis.com)
 - **GitHub**: پلتفرم توسعه نرم‌افزار (github.com و githubusercontent.com)
@@ -52,4 +51,3 @@
 - **Tencent**: شرکت مالک PUBG Mobile (tencent.com)
 - **AWS**: خدمات وب آمازون (aws.amazon.com)
 - **Cloudflare**: خدمات CDN و امنیت (cloudflare.com)
-</div>
