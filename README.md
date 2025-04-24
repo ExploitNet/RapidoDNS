@@ -19,7 +19,7 @@
 - **Steam**: پلتفرم بازی (steampowered.com)
 - **Origin**: پلتفرم بازی EA (origin.com)
 - **EA**: شرکت بازی‌سازی Electronic Arts (ea.com)
-  - شامل زیردامنه‌های مرتبط مانند accounts.ea.com، api.ea.com، fut.ea.com، fut.gcdn.ea.com، gateway.ea.com، utas.s2.fut.ea.com، utas.s3.fut.ea.com، utas.s5.fut.ea.com
+  - accounts.ea.com، api.ea.com، fut.ea.com، fut.gcdn.ea.com، gateway.ea.com، utas.s2.fut.ea.com، utas.s3.fut.ea.com، utas.s5.fut.ea.com
 - **EA Sports**: خدمات ورزشی EA (easports.com، fifa.easports.com، cdn.easports.com، gcdn.ea.com)
 - **Uplay**: پلتفرم بازی Ubisoft (ubisoft.com)
 - **Fortnite**: بازی فورتنایت (fortnite.com)
@@ -47,11 +47,11 @@
 
 - **PlayStation**: کنسول و خدمات پلی‌استیشن (playstation.com، playstation.net، sonyentertainmentnetwork.com)
 
-  - شامل زیردامنه‌های مرتبط مانند a0.ww.np.dl.playstation.net، activity.api.np.km.playstation.net، auth.api.np.ac.playstation.net، auth.api.sonyentertainmentnetwork.com، auth.np.ac.playstation.net، gs2.sonyusercontent.com، gs2.ww.prod.dl.playstation.net، gs2.ww.prod.np.dl.playstation.net، login.np.ac.playstation.net، np.ac.playstation.net، np.playstation.net، psn.api.playstation.com، store.playstation.com
+  - a0.ww.np.dl.playstation.net، activity.api.np.km.playstation.net، auth.api.np.ac.playstation.net، auth.api.sonyentertainmentnetwork.com، auth.np.ac.playstation.net، gs2.sonyusercontent.com، gs2.ww.prod.dl.playstation.net، gs2.ww.prod.np.dl.playstation.net، login.np.ac.playstation.net، np.ac.playstation.net، np.playstation.net، psn.api.playstation.com، store.playstation.com
 
 
 - **Microsoft**: خدمات مایکروسافت (microsoft.com، live.com، msn.com، windows.com، azure.com، msftncsi.com، onedrive.com، msauth.net، live.net، windows.net، msedge.net)
-  - شامل زیردامنه‌های مرتبط مانند cdn-ps.fds-rls.microsoft.com
+  - cdn-ps.fds-rls.microsoft.com
 - **Minecraft**: بازی ماینکرفت (minecraft.net، mojang.com، minecraftservices.com)
 - **Minecraft Featured Servers**: سرورهای ویژه ماینکرفت (lbsg.net، cubecraft.net، mineplex.com، inpvp.net)
 - **X**: پلتفرم شبکه اجتماعی (x.com)
