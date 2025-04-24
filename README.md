@@ -1,8 +1,9 @@
 # RapidoDNS
 
 
-## سرویس‌ هایی که RapidoDNS روی انها فعال است.
-- **Google**: خدمات عمومی گوگل (شامل google.com و زیردامنه‌ها)
+## سرویس‌ های تحت پوشش RapidoDNS
+
+- **Google**: خدمات عمومی گوگل (google.com و زیردامنه‌ها)
 - **Google APIs**: API‌های گوگل (googleapis.com)
 - **GitHub**: پلتفرم توسعه نرم‌افزار (github.com و githubusercontent.com)
 - **Gradle**: ابزار ساخت پروژه (gradle.org)
@@ -20,7 +21,17 @@
 - **EA**: شرکت بازی‌سازی Electronic Arts (ea.com)
 - **Uplay**: پلتفرم بازی Ubisoft (ubisoft.com)
 - **Fortnite**: بازی فورتنایت (fortnite.com)
-- **DNSLeakTest**: ابزار تست نشت DNS (dnsleaktest.com)
+- **وب‌سایت‌های تشخیص IP**:
+  - 2ip.io
+  - dnschecker.org
+  - dnsleaktest.com
+  - dnslytics.com
+  - domaintools.com
+  - ip.sb
+  - whatismyip.com
+  - whatismyipaddress.com
+  - myip.com
+  - ipaddress.my
 - **Riot Games**: شرکت بازی‌سازی (riotgames.com)
 - **League of Legends**: بازی لیگ آف لجندز (leagueoflegends.com)
 - **Supercell**: شرکت بازی‌سازی موبایل (supercell.com)
@@ -33,7 +44,11 @@
 - **Xbox**: کنسول و خدمات ایکس‌باکس (xbox.com، xboxlive.com، xboxservices.com)
 - **PlayStation**: کنسول و خدمات پلی‌استیشن (playstation.com، playstation.net، sonyentertainmentnetwork.com)
 - **Microsoft**: خدمات مایکروسافت (microsoft.com، live.com، msn.com، windows.com، azure.com، msftncsi.com، onedrive.com، msauth.net، live.net، windows.net، msedge.net)
-- **IP.SB**: ابزار بررسی IP (ip.sb)
 - **Minecraft**: بازی ماینکرفت (minecraft.net، mojang.com، minecraftservices.com)
 - **Minecraft Featured Servers**: سرورهای ویژه ماینکرفت (lbsg.net، cubecraft.net، mineplex.com، inpvp.net)
 - **X**: پلتفرم شبکه اجتماعی (x.com)
+- **PUBG**: بازی PlayerUnknown's Battlegrounds (accounts.pubg.com، api.pubg.com، pubg.com، pubgmobile.com)
+- **Krafton**: شرکت مادر PUBG (krafton.com)
+- **Tencent**: شرکت مالک PUBG Mobile (tencent.com)
+- **AWS**: خدمات وب آمازون (aws.amazon.com)
+- **Cloudflare**: خدمات CDN و امنیت (cloudflare.com)
